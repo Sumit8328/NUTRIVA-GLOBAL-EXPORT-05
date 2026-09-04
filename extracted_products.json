@@ -1,0 +1,29 @@
+[
+  {
+    "id": "5",
+    "name": "`Turmeric Powder`",
+    "category": "`Spice Powder`",
+    "image": "Ro",
+    "featured": "!0",
+    "description": "`Premium turmeric powder with vibrant colour and high-quality processing for food and spice industries.`",
+    "applications": "`Spice Industry`,`Food Processing`,`Health Products`,`Seasonings`,`Ready Foods`"
+  },
+  {
+    "id": "11",
+    "name": "`Spinach Powder`",
+    "category": "`Vegetable Powder`",
+    "image": "`/assets/spinach-powder-BQH__W9z.jpg`",
+    "featured": "!1",
+    "description": "`Premium spinach powder manufactured from fresh spinach leaves while preserving its natural colour and nutritional value.`",
+    "applications": "`Health Foods`,`Instant Soups`,`Seasonings`,`Bakery`,`Food Processing`"
+  },
+  {
+    "id": "20",
+    "name": "`Black Pepper Powder`",
+    "category": "`Spice Powder`",
+    "image": "`/assets/black-pepper-powder-CMiDgHTK.jpg`",
+    "featured": "!1",
+    "description": "`Premium black pepper powder processed from carefully selected peppercorns to retain its bold aroma and natural pungency.`",
+    "applications": "`Seasonings`,`Marinades`,`Spice Blends`,`Food Processing`,`Ready Meals`"
+  }
+]
